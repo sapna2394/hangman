@@ -99,7 +99,4 @@ hangman(secret_word)
 
 
 
-# a=[2,4,3,5,6,7,8,1]
-# for i in a:
-#     if i%2 is 0:
-#         print(i)
+
